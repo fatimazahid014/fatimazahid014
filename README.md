@@ -15,7 +15,7 @@
 
 - 📝 I have written articles on [https://wonderfulengineering.com/author/fatimazahid/](https://wonderfulengineering.com/author/fatimazahid/)
 
-- 📫 How to reach me **fatimazahid014@gmail.com**
+- 📫 How to reach me: **fatimazahid014@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
