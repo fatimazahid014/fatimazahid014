@@ -3,7 +3,9 @@
 - 👀 I’m interested in UI Designing and currently working on Data Science.
 - 🌱 I’m currently learning Flutter 
 - ✔✔ I am a CSS Aspirant and an entrepreneur
+
 - 📫 **How to reach me:**
+
 - 🧨Here is my LinkedIn Profile:
            https://www.linkedin.com/in/fatima-zahid-0454941b1
 - 🕹Email:
