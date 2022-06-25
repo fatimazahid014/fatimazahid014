@@ -15,13 +15,13 @@
 
 - 📝 I have written articles on [https://wonderfulengineering.com/author/fatimazahid/](https://wonderfulengineering.com/author/fatimazahid/)
 
-- 📫 How to reach me: **fatimazahid014@gmail.com**
+- 📫 How to reach me **fatimazahid014@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fatima-zahid-0454941b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fatima-zahid-0454941b1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fatima-zahid-0454941b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatima-zahid-0454941b1" height="30" width="40" /></a>
 <a href="https://kaggle.com/fatimazahid014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fatimazahid014" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/fatima.zahid.908347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/fatima.zahid.908347" height="30" width="40" /></a>
+<a href="https://fb.com/fatima.zahid.908347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fatima.zahid.908347" height="30" width="40" /></a>
 <a href="https://instagram.com/fatimazahidhabib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fatimazahidhabib" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/5dFzXFjQh9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/5dFzXFjQh9" height="30" width="40" /></a>
 </p>
