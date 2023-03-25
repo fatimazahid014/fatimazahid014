@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **React and ReactNative**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **App development**
 
