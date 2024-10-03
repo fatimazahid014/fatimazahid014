@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fatima Zahid</h1>
-<h3 align="center">An enthusiastic Computer Science Student at NUST, SEECS.</h3>
+<h3 align="center">An enthusiastic Computer Science from NUST </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fatimazahid014&label=Profile%20views&color=0e75b6&style=flat" alt="fatimazahid014" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatimazahid014" alt="fatimazahid014" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Data Science** and **EDA**
 
 - 🌱 I’m currently learning **Flutter**
 
