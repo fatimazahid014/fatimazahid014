@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Fatima Zahid</h1>
-<h3 align="center">An enthusiastic Computer Science from NUST </h3>
+<h3 align="center">An enthusiastic Computer Scientist from NUST </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fatimazahid014&label=Profile%20views&color=0e75b6&style=flat" alt="fatimazahid014" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatimazahid014" alt="fatimazahid014" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science** and **EDA**
+- 🔭 I currently serve as a **Technical Writer** and **Business Analyst** on Upwork and with a company.
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently getting **SalesForce Certifications**
 
-- 👯 I’m looking to collaborate on **App development**
+- 👯 I’m looking to collaborate on **Business Analysis roles**.
 
-- 🤝 I’m looking for help with **UI Design Part**
+- 🤝 Experienced with Requirements Gathering, analysis, System Requirements specifications, Business Requirements Documentation, Process flows using BPMN, and technical assessment of applications
+- 👯 Experienced in Technical Writing and have provided technical articles on AI/ML Topics including MLOps, RLHF, LLMS, XAI, Gen. AI, and Foundation Models. I have used **Python** for these.
 
 - 📝 I have written articles on [https://wonderfulengineering.com/author/fatimazahid/](https://wonderfulengineering.com/author/fatimazahid/)
 
